@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.defaultapp"
+    namespace "com.demousesdk"
     defaultConfig {
-        applicationId "com.defaultapp"
+        applicationId "com.demousesdk"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

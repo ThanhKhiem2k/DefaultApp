@@ -1,4 +1,4 @@
-package com.defaultapp;
+package com.demousesdk;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
